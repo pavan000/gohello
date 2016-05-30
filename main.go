@@ -7,5 +7,5 @@ import "fmt"
 // }
 
 func PrintMe(s string){
-    fmt.Println("printed",s)
+    fmt.Println("should be this",s)
 }
